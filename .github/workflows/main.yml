@@ -28,5 +28,5 @@ jobs:
         run: |
           curl --request DELETE \
           --url http://quvia.online:4443/api/langs/cache \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' \
+          --header 'authorization: Bearer ${{ secrets.cacheDeletionToken }}' \
           --fail
