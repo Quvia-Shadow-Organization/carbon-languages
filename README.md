@@ -1,7 +1,7 @@
 # Languages for the Carbon Class project
 The Carbon Class applications allow you to display it in multiple languages. We acomplish this using so called language files. A language file is a file in the JSON format, that contains all the text the application uses in the selected language. More information about JSON can be found [here](https://www.w3schools.com/whatis/whatis_json.asp).
 ## Editing and bug reports 
-If you find any problem with translation, a misspelled word or now a language and want to create a new translation, there are two main ways you report this. Pull Requests or Issues.
+If you find any problem with translation, a misspelled word or know a language and want to create a new translation, there are two main ways you report this. Pull Requests or Issues.
 ### Issues
 An issue is the simpler form. You can just create an issue (Click the issues tab and then new issue) and write your complaint there. Issues can take a while to review and more time to fix the problem, but if you don't feel like doing much else, then an issue is the right choice.
 ### Pull Requests 
